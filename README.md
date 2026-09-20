@@ -97,3 +97,5 @@ IF B2 >= 830 AND S3 == 0 THEN
     L1 = 1;
     M1 = 1;
 ENDIF;
+<img width="1907" height="943" alt="Screenshot 2026-09-20 162037" src="https://github.com/user-attachments/assets/edd66dab-74ea-497f-a49a-b1e393ec4e9a" />
+
